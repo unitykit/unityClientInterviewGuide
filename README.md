@@ -5,37 +5,37 @@
 
    链接直达：[unityClientInterviewGuide/1.C++ at main · unitykit/unityClientInterviewGuide](https://github.com/unitykit/unityClientInterviewGuide/tree/main/1.C%2B%2B)
 
-   > 基础
+   > 1. 基础
    >
-   > 面向对象
+   > 2. 面向对象
    >
-   > 进阶
+   > 3. 进阶
 
 2. Lua编程语言
 
    链接直达：[unityClientInterviewGuide/2.Lua at main · unitykit/unityClientInterviewGuide](https://github.com/unitykit/unityClientInterviewGuide/tree/main/2.Lua)
 
-   > 前置知识
+   > 1. 前置知识
    >
-   > 基础
+   > 2. 基础
    >
-   > 浅拷贝与深拷贝
+   > 3. 浅拷贝与深拷贝
    >
-   > 元表
+   > 4. 元表
    >
-   > 创建对象
+   > 5. 创建对象
    >
-   > 热更新
+   > 6. 热更新
    >
-   > 垃圾回收
+   > 7. 垃圾回收
    >
-   > 笔试
+   > 8. 笔试
 
 3. C#编程语言
 
    链接直达：[unityClientInterviewGuide/3.CSharp at main · unitykit/unityClientInterviewGuide](https://github.com/unitykit/unityClientInterviewGuide/tree/main/3.CSharp)
 
-   > 基础
+   > **基础**
    >
    > 1. 数据类型
    > 2. 值类型与引用类型
@@ -49,7 +49,7 @@
    > 10. 委托
    > 11. 事件
    >
-   > 集合
+   > **集合**
    >
    > 1. ArrayList
    > 2. List常规使用
@@ -59,7 +59,7 @@
    > 6. Dictionary基本概念
    > 7. 哈希表
    >
-   > 进阶
+   > **进阶**
    >
    > 1. 面向对象
    > 2. 面向接口
@@ -68,49 +68,52 @@
    > 5. 类
    > 6. 结构体与类的区别
    >
-   > 高级
+   > **高级**
    >
    > ​	内存：
    >
-   > ​		内存分布
+   > 1. 内存分布
    >
-   > ​		内存分配
+   > 2. 内存分配
    >
-   > ​		内存管理
+   > 3. 内存管理
+   >
    >
    > ​	垃圾回收：
    >
-   > ​		内存管理
+   > 1. ​		内存管理
    >
-   > ​		托管与非托管资源
+   > 2. ​		托管与非托管资源
    >
-   > ​		强引用与弱引用
+   > 3. ​		强引用与弱引用
    >
-   > ​		GC基础概念
+   > 4. ​		GC基础概念
    >
-   > ​		垃圾回收模型
+   > 5. ​		垃圾回收模型
    >
-   > ​		SystemGC
+   > 6. ​		SystemGC
    >
-   > ​		分代回收算法
+   > 7. ​		分代回收算法
    >
-   > ​		大型对象堆
+   > 8. ​		大型对象堆
    >
-   > 泛型
    >
-   > ​	反射原理
+   > **泛型**
    >
-   > ​	异常
+   > 1. ​	反射原理
    >
-   > ​	异步编程
+   > 2. ​	异常
    >
-   > 常识
+   > 3. ​	异步编程
+   >
+   >
+   > **常识**
 
 4. Unity 3D引擎
 
    链接直达：[unityClientInterviewGuide/4.Unity引擎 at main · unitykit/unityClientInterviewGuide](https://github.com/unitykit/unityClientInterviewGuide/tree/main/4.Unity引擎)
 
-   > 引擎基础常识
+   > **引擎基础常识**
    >
    > 1. 五大坐标系
    > 2. 点乘叉乘
@@ -120,7 +123,7 @@
    > 6. 射线
    > 7. 协程
    >
-   > 资产管理
+   > **资产管理**
    >
    > 1. Prefab预制体
    > 2. 特殊文件夹
@@ -131,7 +134,7 @@
    > 7. 打包策略
    > 8. 热更新方案
    >
-   > UI系统
+   > **UI系统**
    >
    > 1. UGUI基础概念
    >
@@ -146,19 +149,19 @@
    > 10. 图集
    > 11. 游戏UI策略
    >
-   > 物理系统
+   > **物理系统**
    >
    > 1. 初认识
    > 2. 面试题
    >
-   > 动画系统
+   > **动画系统**
    >
    > 1. PlayableGraph底层架构
    > 2. Mecanim系统
    > 3. Motion Matching动画方案
    > 4. 面试题
    >
-   > 图像渲染
+   > **图像渲染**
    >
    > ​	渲染管线：
    >
@@ -170,17 +173,18 @@
    >
    > ​		4.面试题
    >
-   > ​	摄像机
+   > - ​	摄像机
    >
-   > ​	光照
+   > - ​	光照
    >
-   > ​	模型
+   > - ​	模型
    >
-   > ​	网格
+   > - ​	网格
    >
-   > ​	材质
+   > - ​	材质
    >
-   > ​	着色器
+   > - ​	着色器
+   >
    >
    > 网络通信
    >
@@ -192,11 +196,11 @@
 
    链接直达：[unityClientInterviewGuide/5.设计模式 at main · unitykit/unityClientInterviewGuide](https://github.com/unitykit/unityClientInterviewGuide/tree/main/5.设计模式)
 
-   > 前情提要
+   > 1. 前情提要
    >
-   > 七大原则
+   > 2. 七大原则
    >
-   > 常用模式
+   > 3. 常用模式
 
 长期更新，长期维护，欢迎关注~
 
